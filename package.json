@@ -1,0 +1,21 @@
+{
+  "name": "duo-toml",
+  "version": "0.0.1",
+  "description": "Require TOML files directly from JS",
+  "keywords": [],
+  "author": "Matthew Mueller <matt@lapwinglabs.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/duojs/duo-toml.git"
+  },
+  "dependencies": {
+    "mocha": "^2.0.1",
+    "toml": "^2.0.6"
+  },
+  "devDependencies": {
+    "duo": "^0.8.10",
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
